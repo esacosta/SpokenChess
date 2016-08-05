@@ -1,0 +1,19 @@
+﻿<Window x:Class="SpeechToText.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SpokenChess" Height="298" Width="559" Closing="Window_Closing" Icon="Images/spokenchess.ico" Topmost="True" WindowStyle="SingleBorderWindow" ResizeMode="CanMinimize">
+  <Grid >
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto" />
+      <RowDefinition Height="*" />
+      <RowDefinition Height="Auto" />
+    </Grid.RowDefinitions>
+    <ProgressBar Name="prgLevel" Height="10" Margin="3" />
+    <ScrollViewer Name="scvText" Margin="3,3,165,3" Grid.Row="1" VerticalScrollBarVisibility="Visible">
+      <TextBlock Grid.Row="1" Name="txtSpoken" FontSize="12" Foreground="Black" />
+    </ScrollViewer>
+    <Button Content="Cerrar" Grid.Row="2" Margin="289,3,3,3" Click="Button_Click" />
+    <Button x:Name="btnArea" Content="Área" Margin="3,3,289,0" Grid.Row="2" VerticalAlignment="Top" Click="SelectArea"/>
+    <Image x:Name="imgClipboard" Margin="388,3,3,3" Grid.Row="1" StretchDirection="DownOnly"/>
+  </Grid>
+</Window>

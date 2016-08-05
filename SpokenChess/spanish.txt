@@ -1,0 +1,139 @@
+a1      |0,0|true
+a uno   |0,0|true
+a2      |0,1|true
+a dos   |0,1|true
+a3      |0,2|true
+a tres  |0,2|true
+a4      |0,3|true
+a cuatro|0,3|true
+a5      |0,4|true
+a cinco |0,4|true
+a6      |0,5|true
+a seis  |0,5|true
+a7      |0,6|true
+a siete |0,6|true
+a8      |0,7|true
+a ocho  |0,7|true
+
+b1      |1,0|true
+b uno   |1,0|true
+b2      |1,1|true
+b dos   |1,1|true
+b3      |1,2|true
+b tres  |1,2|true
+b4      |1,3|true
+b cuatro|1,3|true
+b5      |1,4|true
+b cinco |1,4|true
+b6      |1,5|true
+b seis  |1,5|true
+b7      |1,6|true
+b siete |1,6|true
+b8      |1,7|true
+b ocho  |1,7|true
+
+c1      |2,0|true
+c uno   |2,0|true
+c2      |2,1|true
+c dos   |2,1|true
+c3      |2,2|true
+c tres  |2,2|true
+c4      |2,3|true
+c cuatro|2,3|true
+c5      |2,4|true
+c cinco |2,4|true
+c6      |2,5|true
+c seis  |2,5|true
+c7      |2,6|true
+c siete |2,6|true
+c8      |2,7|true
+c ocho  |2,7|true
+
+d1      |3,0|true
+d uno   |3,0|true
+d2      |3,1|true
+d dos   |3,1|true
+d3      |3,2|true
+d tres  |3,2|true
+d4      |3,3|true
+d cuatro|3,3|true
+d5      |3,4|true
+d cinco |3,4|true
+d6      |3,5|true
+d seis  |3,5|true
+d7      |3,6|true
+d siete |3,6|true
+d8      |3,7|true
+d ocho  |3,7|true
+
+e1      |4,0|true
+e uno   |4,0|true
+e2      |4,1|true
+e dos   |4,1|true
+e3      |4,2|true
+e tres  |4,2|true
+e4      |4,3|true
+e cuatro|4,3|true
+e5      |4,4|true
+e cinco |4,4|true
+e6      |4,5|true
+e seis  |4,5|true
+e7      |4,6|true
+e siete |4,6|true
+e8      |4,7|true
+e ocho  |4,7|true
+
+f1      |5,0|true
+f uno   |5,0|true
+f2      |5,1|true
+f dos   |5,1|true
+f3      |5,2|true
+f tres  |5,2|true
+f4      |5,3|true
+f cuatro|5,3|true
+f5      |5,4|true
+f cinco |5,4|true
+f6      |5,5|true
+f seis  |5,5|true
+f7      |5,6|true
+f siete |5,6|true
+f8      |5,7|true
+f ocho  |5,7|true
+
+g1      |6,0|true
+g uno   |6,0|true
+g2      |6,1|true
+g dos   |6,1|true
+g3      |6,2|true
+g tres  |6,2|true
+g4      |6,3|true
+g cuatro|6,3|true
+g5      |6,4|true
+g cinco |6,4|true
+g6      |6,5|true
+g seis  |6,5|true
+g7      |6,6|true
+g siete |6,6|true
+g8      |6,7|true
+g ocho  |6,7|true
+
+h1      |7,0|true
+h uno   |7,0|true
+h2      |7,1|true
+h dos   |7,1|true
+h3      |7,2|true
+h tres  |7,2|true
+h4      |7,3|true
+h cuatro|7,3|true
+h5      |7,4|true
+h cinco |7,4|true
+h6      |7,5|true
+h seis  |7,5|true
+h7      |7,6|true
+h siete |7,6|true
+h8      |7,7|true
+h ocho  |7,7|true
+
+
+
+
